@@ -1,0 +1,45 @@
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\makab\Downloads\TCP TUTORIAL Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\makab\Desktop\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\makab\Desktop\Studia stacjonarne II stopnia\Semestr III\Systemy odporne na błędy\Projekt\Project - 2PC\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\makab\Desktop\Project - 2PC\Coordinator\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache

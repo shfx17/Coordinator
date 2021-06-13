@@ -1,0 +1,9 @@
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\bin\Debug\TCPServer.xml
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\obj\x86\Debug\TCPServer.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\obj\x86\Debug\TCPServer.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\obj\x86\Debug\TCPServer.vbproj.GenerateResource.Cache
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\obj\x86\Debug\TCPServer.xml
+C:\Users\roberts.JORE_CORP.DMN\AppData\Local\Temporary Projects\TCPServer\obj\x86\Debug\TCPServer.pdb
